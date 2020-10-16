@@ -72,5 +72,6 @@ def list_dir(path):
 			contents.append(file)
 	print(contents)
 	print("\n")
-
+	
+#Start running here. 
 directory_runner()
